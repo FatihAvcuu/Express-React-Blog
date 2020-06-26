@@ -1,0 +1,24 @@
+.line{
+    background-color: whitesmoke;
+    border-radius: 3px;
+    padding-top: 7px;
+    padding-bottom:2px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.line i {
+    padding-right: 7px;
+    padding-bottom: 7px;
+}
+.line a {
+    color: #511378;
+}
+.content button{
+    outline: none;
+    border: none;
+}
+.span-icon{
+    color: #b52e31;
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #48a9c5;
+}
+form{
+    background-color: #046c8b;
+    color: white;
+    width: 320px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 7px;
+}
+.title{
+    text-align: center;
+    padding-bottom: 30px;
+}
+form input{
+   margin-bottom: 15px;
+   background-color: #4298b5;
+   border-radius: 3px;
+   border: none;
+   color: white;
+   outline: none;
+   width: 260px;
+   padding-left: 10px;
+   height: 30px;
+}
+form input::placeholder{
+    color: rgb(226, 223, 223);
+}

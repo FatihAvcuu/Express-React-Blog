@@ -1,0 +1,74 @@
+.entry{
+    background-color: white;
+}
+.entry h1{
+    color: rgb(56, 12, 97);
+    font-size: 140px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.entry h2{
+    color: rgb(56, 12, 97);
+    font-size: 70px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 5px;
+}
+.entry h5{
+    text-align: center;
+    color: rgb(155, 155, 155);
+    font-weight: 300;
+    padding-bottom: 5px;
+}
+.entry h6{
+    text-align: center;
+    color: rgb(155, 155, 155);
+    font-weight: 300;
+    padding-bottom: 5px;
+}
+.entry hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(56, 12, 97, 0.60), rgba(0, 0, 0, 0));
+}
+.blog{
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.blog h2{
+    color: rgb(56, 12, 97);
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.blog p{
+    color: rgb(56, 12, 97);
+    opacity: 0.6;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.blog-img{
+    border-radius: 12px;
+    max-width: 100%;
+    width: 100%;
+}
+.article{
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.article h1{
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+}
+.article p{
+    color: black;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
